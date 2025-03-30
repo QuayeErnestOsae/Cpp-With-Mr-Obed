@@ -15,7 +15,7 @@
 > - The Programming phase
 > - Types of Approach
 
-- CLasses And Objects
+- Classes And Objects
 > - Understanding Unified Modelling Language
 > - Classes
 > - Objects
