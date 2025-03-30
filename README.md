@@ -2,7 +2,7 @@
 
 
 >**Objective**
-> - Have a solid understanding of Object Oriented Programming (OOP)
+> - Gain a solid understanding in Object Oriented Programming (OOP)
 > - Facilitate the use of classes, templates and object
 > - Facilitate the use of Data Structures and Algorithms such as Linked List, Stacks, Queues, Trees and Graphs
 > - Facilitate the use of Postfix, Prefix
